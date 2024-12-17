@@ -43,9 +43,9 @@
 
 ## Результаты
 
-![Results](path/to/your/image.png)
+![Results](result.jpg)
 
 ## Код для вставки изображения
 
 ```markdown
-![Results](path/to/your/image.png)
+![Results](result.jpg)
